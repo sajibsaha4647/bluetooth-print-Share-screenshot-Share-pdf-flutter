@@ -40,9 +40,12 @@ dependencies:
   printing: 5.9.3
   path_provider: ^2.0.12
   open_file: ^3.2.1
+  widgets_to_image: ^0.0.2
   provider: ^6.0.5
+  share_files_and_screenshot_widgets: ^1.0.6
   bluetooth_print: ^4.3.0
-
+  screenshot: ^1.3.0
+  share_plus: any
 dev_dependencies:
   flutter_test:
     sdk: flutter
